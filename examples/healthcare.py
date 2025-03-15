@@ -1,0 +1,1 @@
+# Sağlık sektörüne yönelik HyperAI kullanım senaryosu

@@ -1,0 +1,1 @@
+# İklim tahmini için HyperAI kullanım senaryosu
