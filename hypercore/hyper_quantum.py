@@ -1,4 +1,5 @@
-from qiskit import QuantumCircuit, Aer, execute
+from qiskit import QuantumCircuit, execute
+from qiskit.providers.aer import AerSimulator
 
 class HyperQuantum:
     def __init__(self, num_qubits=3):
